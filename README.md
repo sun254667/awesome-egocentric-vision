@@ -1,5 +1,6 @@
 <div align="center">
-# Awesome Egocentric Vision
+
+# 🎥 Awesome Egocentric Vision
 
 <p align="center">
   <img src="banner.png" alt="Awesome Egocentric Video Datasets" width="100%">
