@@ -3,7 +3,11 @@
 # 🎥 Awesome Egocentric Vision
 
 <p align="center">
-  <img src="banner.png" alt="Awesome Egocentric Video Datasets" width="100%">
+  <img src="banner.png" alt="Awesome Egocentric Vision" width="100%">
+</p>
+
+<p align="center">
+  <img src="QRcode.png" alt="Awesome Egocentric Vision" width="100%">
 </p>
 </div>
 
