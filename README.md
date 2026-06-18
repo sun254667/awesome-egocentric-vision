@@ -1,4 +1,13 @@
+<div align="center">
 # Awesome Egocentric Vision
+
+<p align="center">
+  <img src="banner.png" alt="Awesome Egocentric Video Datasets" width="100%">
+</p>
+</div>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 > 精心整理的第一人称视觉（Egocentric Vision）领域资源清单，涵盖论文、数据集、开源工具、预训练模型、挑战赛、学习路线等内容，兼顾经典奠基工作与前沿进展，面向科研入门与产业落地。
 >
