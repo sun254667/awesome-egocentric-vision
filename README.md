@@ -820,6 +820,10 @@
 ## ❤️ Contact
 If you have suggestions, or find this project useful, feel free to contact Yuanliang Sun at sun254667307@gmail.com.
 
+## Acknowledgements
+This repo builds on and cross-links with several strong community collections:
++ [Awesome-Egocentric-Video-Datasets](https://github.com/player0718/awesome-ego-video-datasets)
+
 ## License
 CC0 1.0 Universal. See LICENSE.
 
