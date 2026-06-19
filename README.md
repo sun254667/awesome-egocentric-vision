@@ -17,7 +17,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
-> A curated, learning-friendly list of egocentric (first-person) vision & embodied AI resources: papers, datasets, code, models, toolkits, challenges and tutorials, covering both classic foundational works and cutting-edge advances, catering to research initiation and industrial落地.
+> A curated, learning-friendly list of egocentric (first-person) vision & embodied AI resources: papers, datasets, code, models, toolkits, challenges and tutorials, covering both classic foundational works and cutting-edge advances, catering to research initiation and industrial deployment.
 >
 
 ✅ **Inclusion Criteria**
