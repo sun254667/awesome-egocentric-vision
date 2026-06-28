@@ -1285,6 +1285,7 @@ With the rapid proliferation of wearable cameras and first-person video data, da
 
 ## ❤️ Contact
 If you have paper/dataset suggestions, corrections or find this resource list useful, feel free to reach out to Yuanliang Sun via email: sun254667307@gmail.com.
+If you are interested in pursuing an internship in egocentric vision research, please feel free to reach out to me at any time.
 
 ## ⭐ Acknowledgements
 This curated collection cross-references and builds upon multiple community egocentric vision repositories:
