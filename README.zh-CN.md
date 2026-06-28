@@ -1,4 +1,4 @@
-# 🎥 Awesome 第一人称视觉 (Egocentric Vision)
+# 🎥 Awesome Egocentric Vision
 
 <p align="center">
   <img src="banner.png" alt="Awesome Egocentric Vision" width="100%">
