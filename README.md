@@ -54,6 +54,7 @@ The preferred materials for getting started in the field, helping to quickly est
     - Publication: arXiv 2025 (v1: Mar 2025, v2: Apr 2025)
     - Highlights: The latest panoramic survey of the field, systematically classifying four major task directions: subject understanding, object understanding, environment understanding, and hybrid understanding, comprehensively summarizing challenges and trends
     - Paper Link: [arXiv](https://arxiv.org/abs/2503.15275)
+    - Wechat Article: https://mp.weixin.qq.com/s/Nm1UOZ8wa3VnXNNeAQMiHw
 +  **Building Egocentric Procedural AI Assistant: Methods, Benchmarks, and Challenges**
     - Publication: arXiv 2025
     - Highlights: For the first time, systematically proposes a complete technical framework for first-person procedural AI assistants, defining three core tasks: error detection, procedural learning, and visual question answering, as well as two supporting dimensions: real-time stream processing and active interaction
