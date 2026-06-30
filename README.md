@@ -391,6 +391,7 @@ Combines large language models with first-person vision to achieve advanced cogn
     - Publication: arXiv 2025
     - Highlights: Converts first-person human videos into embodied supervision data
     - Paper Link: [arXiv](https://arxiv.org/abs/2512.16793)
+    - Wechat Article: https://mp.weixin.qq.com/s/Eydrv6aj3q6Km6TRmfnBBQ
 +  **Vinci: A Real-time Smart Assistant based on Egocentric Vision-language Model**
     - Publication: ACM 2025 (arXiv 2024)
     - Highlights: A lightweight Ego-VLM for wearable devices, supporting long video memory and action generation, and can run in real time on edge devices
@@ -712,6 +713,7 @@ Aligns vision, language and action signals from first-person human footage to tr
     - Publication: arXiv 2026 (Jun 2026)
     - Highlights: Systematic study comparing egocentric human video and teleoperated real-robot trajectories as pretraining data sources. Models pretrained on egocentric data achieve 24% lower validation loss, and 52.5% and 90% higher success rates on in-distribution and out-of-distribution tasks respectively
     - Paper Link: [arXiv](https://arxiv.org/abs/2606.20521)
+    - Wechat Article: https://mp.weixin.qq.com/s/l4XY2I2I8BYCxphstKcbvQ
 +  **HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning**
     - Publication: arXiv 2026 (Jun 2026)
     - Highlights: A simulation-first benchmark for egocentric hierarchical whole-body learning, formulating policy learning as a hierarchical decision making problem with 7 leg-critical HOI/HSI tasks
@@ -720,6 +722,7 @@ Aligns vision, language and action signals from first-person human footage to tr
     - Publication: arXiv 2026 (Jun 2026)
     - Highlights: Unified VLA pretraining framework jointly leveraging heterogeneous data sources with a scalable egocentric video-to-action pipeline converting raw human videos into robot-format pseudo-action trajectories
     - Paper Link: [arXiv](https://arxiv.org/abs/2606.17200)
+    - Wechat Article: https://mp.weixin.qq.com/s/w4OS_vk1n3KTs5c4lawjPw
 +  **Motion-Focused Latent Action Enables Cross-Embodiment VLA Training from Human EgoVideos**
     - Publication: arXiv 2026 (Jun 2026)
     - Highlights: Addresses the absence of action labels in egocentric human manipulation videos for VLA training
@@ -760,6 +763,7 @@ Aligns vision, language and action signals from first-person human footage to tr
     - Publication: arXiv 2026 (Feb 2026)
     - Highlights: Trains a VLA model on over 20,854 hours of action-labeled egocentric human video, uncovering a log-linear scaling law between human data scale and validation loss
     - Paper Link: [arXiv](https://arxiv.org/abs/2602.16710)
+    - Wechat Article: https://mp.weixin.qq.com/s/OpH-3oQRHNpiOSVsyuH0fA
 +  **Ego-Pi: VLA Fine-Tuning for Egocentric Human and Robot Data**
     - Publication: arXiv 2026
     - Highlights: Targeted fine-tuning pipeline for dual-arm dexterous manipulation VLAs trained on wearable human footage
@@ -794,9 +798,9 @@ Aligns vision, language and action signals from first-person human footage to tr
 | :--- | :--- | :--- | :--- | :--- |
 |  In-N-On (PHSD) | 2025 | Egocentric + on-task data | Manipulation policy learning | [arXiv](https://arxiv.org/abs/2511.12643) |
 | EgoVerse | 2026 | 1,362 h / ~80K task episodes | General robot manipulation pre-training, Embodied benchmarking | [Official Website](https://egoverse.ai/) |
-| EgoLive | 2026 | Large-scale real-world daily task recordings | Unstructured robotic skill transfer | [arXiv](https://arxiv.org/abs/2604.23570) |
+| EgoLive | 2026 | Large-scale real-world daily task recordings | Unstructured robotic skill transfer | [arXiv](https://arxiv.org/abs/2604.23570) [wecht](https://mp.weixin.qq.com/s/N_C9QZTbK44VVWyI_hcfwg)|
 | EgoMAGIC | 2026 | 3,355 medical task videos / 50 clinical workflows | Surgical action detection & procedural assistance | [Zenodo](https://doi.org/10.5281/zenodo.19239154) |
-| HumanEgo | 2026 | Short Aria wearable demonstration sequences | Human-to-robot policy distillation | [Official Website](https://humanego-ai.github.io/) |
+| HumanEgo | 2026 | Short Aria wearable demonstration sequences | Human-to-robot policy distillation | [Official Website](https://humanego-ai.github.io/) [wechat](https://mp.weixin.qq.com/s/uWVASfqPLHF3iL1Cj0Hdtw)|
 | EgoSPT | 2026 | 11,515 operation episodes / 112 task folders | Spatial prompt-conditioned manipulation trajectory generation | [Hugging Face](https://huggingface.co/datasets/JackYFL233/EgoSPT) |
 | Ego-EXTRA | 2026 | 50 h / 15K+ instructional VQA pairs | Expert-novice wearable assistance scenarios | [Official Website](https://fpv-iplab.github.io/Ego-EXTRA/) |
 | GM-100 | 2026 | 100+ manipulation tasks / 13K trajectories | General robot skill evaluation benchmark | [Official Website](https://www.rhos.ai/research/gm-100) |
@@ -840,6 +844,7 @@ Learns the evolution rules of environments from first-person observations, enabl
     - Publication: arXiv 2026
     - Highlights: Cross-view knowledge transfer pipeline leveraging abundant third-person footage to augment egocentric world model training
     - Paper Link: [arXiv](https://arxiv.org/pdf/2605.15477)
+    - Wechat Article: https://mp.weixin.qq.com/s/S9LkbbBgD3EU6DYPAvUhmA
 +  **EgoSim: Egocentric World Simulator for Embodied Interaction Generation**
     - Publication: arXiv 2026
     - Highlights: Closed-loop interactive simulator with persistent dynamic 3D scene states for continuous synthetic interaction video generation
