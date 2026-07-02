@@ -1,8 +1,11 @@
 <div align="center">
+
 # 🎥 Awesome Egocentric Vision
+
 <p align="center">
   <img src="banner.png" alt="Awesome Egocentric Vision" width="100%">
 </p>
+
 <p align="center">
   <img src="QRcode.png" alt="Awesome Egocentric Vision" width="100%">
 </p>
