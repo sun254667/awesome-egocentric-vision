@@ -109,7 +109,7 @@ The most fundamental and mature direction of egocentric vision, studying the rec
 +  **ENIGMA-360: An Ego-Exo Dataset for Human Behavior Understanding in Industrial Scenarios**
     - Publication: arXiv 2026
     - Highlights: Provides baseline experiments for three foundational tasks: Temporal Action Segmentation, Keystep Recognition, and Egocentric Human-Object Interaction Detection
-    - Paper Link: [arXiv](https://arxiv.org/abs/2603.14327)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2603.09741)
 
 +  **Ego4OOD: Rethinking Egocentric Video Domain Generalization via Covariate Shift Scoring**
     - Publication: arXiv 2026
@@ -134,7 +134,7 @@ The most fundamental and mature direction of egocentric vision, studying the rec
 + **Ego-Only: Egocentric Action Detection without Exocentric Transferring**
     - Publication: ICCV 2023
     - Highlights: Proves for the first time that models trained with pure first-person data can outperform methods relying on third-person transfer
-    - Paper Link: [CVF](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Ego-Only_Egocentric_Action_Detection_without_Exocentric_Transferring_ICCV_2023_paper.html)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2301.01380)
 
 #### Action Anticipation
 +  **JFAA: Technical Report for the EPIC-KITCHENS-100 Action Anticipation Challenge at EgoVis 2026**
@@ -209,7 +209,7 @@ Studies the interaction process between hands and objects from a first-person pe
 +  **Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos**
     - Publication: arXiv 2026
     - Highlights: Dynamic 3D hand reconstruction from egocentric videos essential for AR/VR and AI glasses, addressing fast head motion, rapid hand dynamics, severe occlusions, and single-view ambiguity
-    - Paper Link: [arXiv](https://arxiv.org/abs/2606.16930)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2606.19156)
  
 +  **Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data**
     - Publication: arXiv 2026
@@ -229,7 +229,7 @@ Studies the interaction process between hands and objects from a first-person pe
 +  **IMPACT-HOI: Supervisory Control for Onset-Anchored Partial HOI Event Construction**
     - Publication: arXiv 2026
     - Highlights: A mixed-initiative framework for annotating egocentric procedural video by constructing structured event graphs for Human-Object Interactions, motivated by learning robot manipulation from human demonstration
-    - Paper Link: [arXiv](https://arxiv.org/abs/2605.17639)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2605.01666)
 
 +  **EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera**
     - Publication: SIGGRAPH 2026
@@ -239,7 +239,7 @@ Studies the interaction process between hands and objects from a first-person pe
 +  **EgoGrasp: World-Space Hand-Object Interaction Estimation from Egocentric Videos**
     - Publication: arXiv 2026
     - Highlights: The first method to reconstruct world-space hand-object interactions (W-HOI) from dynamic egoview videos, supporting open-vocabulary objects
-    - Paper Link: [arXiv](https://arxiv.org/abs/2603.12255)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2601.01050)
 
 +  **EgoHOI: Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis**
     - Publication: arXiv 2026
@@ -284,7 +284,7 @@ Studies the interaction process between hands and objects from a first-person pe
 +  **EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**
     - Publication: arXiv 2026
     - Highlights: Robust 3D hand reconstruction in egocentric vision addressing depth ambiguity, self-occlusion, and complex hand-object interactions; improves EgoVLM hand-object interaction reasoning
-    - Paper Link: [arXiv](https://arxiv.org/abs/2601.09806)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2601.19850)
 
 +  **Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions?**
     - Publication: ICLR 2025
@@ -304,7 +304,7 @@ Studies the interaction process between hands and objects from a first-person pe
 + **EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding**
     - Publication: ICCV 2023
     - Highlights: Proposes a new framework as an infrastructure to advance Ego-HOI recognition by Probing, Curation and Adaption (EgoPCA)
-    - Paper Link: [CVF](https://openaccess.thecvf.com/content/ICCV2023/html/EgoPCA_A_New_Framework_for_Egocentric_Hand-Object_Interaction_Understanding_ICCV_2023_paper.html)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2309.02423)
 
 #### 📊 Related Datasets & Benchmarks
 | Dataset Name | Year | Scale | Core Tasks | Link |
@@ -354,7 +354,7 @@ Combines large language models with first-person vision to achieve advanced cogn
 +  **EgoM2P: Egocentric Multimodal Multitask Pretraining**
     - Publication: ICCV 2025
     - Highlights: A unified design supporting multitasking across diverse egocentric perception and synthesis tasks, including gaze prediction, egocentric camera tracking, and monocular depth estimation, and also serves as a generative model for conditional egocentric video synthesis
-    - Paper Link: [ICCV](https://openaccess.thecvf.com/content/ICCV2025/html/EgoM2P_Egocentric_Multimodal_Multitask_Pretraining_ICCV_2025_paper.html)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2506.07886)
 
 +  **EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception**
     - Publication: ICCV 2025
@@ -435,7 +435,7 @@ Combines large language models with first-person vision to achieve advanced cogn
 +  **Egocentric Bias in Vision-Language Models**
     - Publication: arXiv 2026
     - Highlights: Introduces FlipSet, a diagnostic benchmark for Level-2 visual perspective taking in VLMs. Evaluating 103 VLMs reveals systematic egocentric bias: the vast majority perform below chance
-    - Paper Link: [arXiv](https://arxiv.org/abs/2602.03953)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2602.15892)
 
 +  **Allocentric Perceiver: Disentangling Allocentric Reasoning from Egocentric Visual Priors via Frame Instantiation**
     - Publication: arXiv 2026
@@ -445,7 +445,7 @@ Combines large language models with first-person vision to achieve advanced cogn
 +  **Cognitively-Inspired Tokens Overcome Egocentric Bias in Multimodal Models**
     - Publication: arXiv 2026
     - Highlights: Multimodal language models perform well on semantic vision-language tasks but fail at spatial reasoning that requires adopting another agent's visual perspective, reflecting a persistent egocentric bias
-    - Paper Link: [arXiv](https://arxiv.org/abs/2601.15849)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2601.16378)
 
 +  **EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal Chain of Thought**
     - Publication: NeurIPS 2025
@@ -460,12 +460,12 @@ Combines large language models with first-person vision to achieve advanced cogn
 +  **Benchmarking Egocentric Multimodal Goal Inference for Assistive Wearable Agents**
     - Publication: NeurIPS 2025 Datasets and Benchmarks Track
     - Highlights: Goal inference benchmark dataset, containing 363 participants and 3,482 records, with human upper limit 93% accuracy and best VLM only 84%
-    - Paper Link: [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2025/hash/23ab960082db936f874b171822e0d097-Abstract-Datasets_and_Benchmarks.html)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2510.22443)
 
 +  **ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**
     - Publication: CVPR 2025
     - Highlights: A high-quality benchmark designed to systematically evaluate the embodied cognitive abilities of LVLMs. Features diverse scene video sources, open question formats, and 30 dimensions of embodied cognition
-    - Paper Link: [CVF](https://www.openaccess.thecvf.com/content/CVPR2025/html/Dang_ECBench_Can_Multi-modal_Foundation_Models_Understand_the_Egocentric_World_A_CVPR_2025_paper.html) | [arXiv](https://arxiv.org/abs/2501.05031)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2501.05031)
 
 +  **MM-Ego: Towards Building Egocentric Multimodal LLMs for Video QA**
     - Publication: ICLR 2025
@@ -496,7 +496,7 @@ Combines large language models with first-person vision to achieve advanced cogn
 +  **EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models**
     - Publication: CVPR 2024
     - Highlights: Introduces a novel visual question-answering benchmark that encompasses six core capabilities with twelve detailed dimensions, constructed using selected clips from egocentric videos with manually annotated QA pairs
-    - Paper Link: [CVF](https://openaccess.thecvf.com/content/CVPR2024/html/EgoThink_Evaluating_First-Person_Perspective_Thinking_Capability_of_Vision-Language_Models_CVPR_2024_paper.html)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2311.15596)
 
 +  **VidEgoThink: A Comprehensive Benchmark for Egocentric Video Understanding**
     - Publication: arXiv 2024
@@ -576,7 +576,7 @@ Processes ultra-long first-person videos at the hour or even day level, with cor
 +  **EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding**
     - Publication: arXiv 2026
     - Highlights: A benchmark for evaluating week-level egocentric video memory-driven reasoning, containing 500 questions, with the best model only achieving 39.6% accuracy
-    - Paper Link: [Hugging Face](https://huggingface.co/datasets/Ted412/EgoMemReason)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2605.09874)
 
 +  **Semantic and Visual Evidence for Efficient Long-Video Reasoning: A Solution for the HD-EPIC VQA Challenge**
     - Publication: arXiv 2026
@@ -807,7 +807,7 @@ Recovers 3D human meshes, depth maps and dynamic 4D scene structures from monocu
 +  **EgoGrasp: World-Space Hand-Object Interaction Estimation from Egocentric Videos**
     - Publication: arXiv 2026
     - Highlights: The first method to reconstruct world-space hand-object interactions from dynamic egoview videos, supporting open-vocabulary objects
-    - Paper Link: [arXiv](https://arxiv.org/abs/2603.12255)
+    - Paper Link: [arXiv](https://arxiv.org/pdf/2601.01050)
 
 +  **AG-EgoPose: Leveraging Action-Guided Motion and Kinematic Joint Encoding for Egocentric 3D Pose Estimation**
     - Publication: arXiv 2026
