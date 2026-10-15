@@ -543,6 +543,11 @@
 ### 2.4 长视频理解与结构化推理
 处理小时甚至天级别的超长第一人称视频，核心挑战包括长程依赖建模、记忆检索和信息摘要。本节还涵盖基于场景图的结构化长视频推理表示。
 
++  **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**
+    - 发表：arXiv 2026
+    - 亮点：覆盖长视频、第一人称视频等七种时间定位设置，通过验证式 SFT 与时间定位 GRPO 训练通用模型。
+    - 论文链接：[arXiv](https://arxiv.org/abs/2607.17423) · [Code](https://github.com/MCG-NJU/TimeLens2)
+
 +  **LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**
     - 发表：arXiv 2026
     - 亮点：基于长时Ego4D视频构建的基准，包含1,498个指代表达，平均视频时长45分钟，呈现极端目标稀疏性和复杂人‑物交互。
