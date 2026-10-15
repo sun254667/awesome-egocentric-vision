@@ -543,6 +543,11 @@ Combines large language models with first-person vision to achieve advanced cogn
 ### 2.4 Long-form Video Understanding & Structured Reasoning
 Processes ultra-long first-person videos at the hour or even day level, with core challenges including long-term dependency modeling, memory retrieval and information summarization. This section also covers scene graph-based structured representations for long-form video reasoning.
 
++  **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**
+    - Publication: arXiv 2026
+    - Highlights: Generalist temporal grounding across seven settings, including long and egocentric video; uses verified SFT and temporal-grounding GRPO.
+    - Paper Link: [arXiv](https://arxiv.org/abs/2607.17423) · [Code](https://github.com/MCG-NJU/TimeLens2)
+
 +  **LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension**
     - Publication: arXiv 2026
     - Highlights: A benchmark constructed from long-form Ego4D videos containing 1,498 referring expressions with average video duration of 45 minutes, exhibiting extreme target sparsity and complex human-object interactions
